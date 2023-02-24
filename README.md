@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jellybeans511
-- 👀 I’m interested in agriculture robot on  control.
+- 👀 I’m interested in agriculture robot on remote control.
 Chore boy Ph.D candidate...
 <!---
 jellybeans511/jellybeans511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
