@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jellybeans511
-- 👀 I’m interested in agriculture robot on Tele-Driving.
+- ✨Research Topic✨ Tele-Driving and Remote monitoring on Agriculture Robot 
+- ✨My Interest Technology✨ HTML/Javascript/TypeScript/React/Electron/WebRTC
 <!---
 jellybeans511/jellybeans511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
